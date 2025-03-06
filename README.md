@@ -20,7 +20,7 @@ Pastikan mengikuti langkah-langkah berikut untuk mengunggah tugas praktikum deng
 Di dalam repository GitHub, buat folder dengan struktur berikut:
 ```
 📂 NamaRepo/
- ├── 📂 Laprak/
+ ├── 📂 NIM_ModulX/
  │    ├── NIM_MODUL3.pdf
  │    ├── NIM_Guided3.go
  │    ├── NIM_Unguided3.go
