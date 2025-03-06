@@ -51,7 +51,7 @@ Setelah langkah-langkah di atas selesai, cek repository di GitHub untuk memastik
 ---
 
 ## 🔗 Link Repository
-🔗 [Klik di sini untuk mengakses repository utama](#) _(Ganti dengan link asli)_
+🔗 [Klik di sini untuk mengakses repository utama](https://drive.google.com/file/d/1G-wDmFK0u_NjNtfM9m60ILKCsIDOeOyx/view?usp=sharing) 
 
 ## 🎯 Tujuan Praktikum
 ✅ Memahami konsep dasar pemrograman secara lebih mendalam.
