@@ -3,7 +3,7 @@
 Selamat datang di **Praktikum Algoritma dan Pemrograman 2**! 🎉
 
 ## 🕕 Jadwal Praktikum
-- **Waktu:** 06:00 WIB ⏰
+- **Waktu:** 06:30 WIB ⏰
 - **Agenda:**
   1. **Sesi Teori** 📚 - Penjelasan materi
   2. **Sesi Praktik** 💻 - Implementasi kode
